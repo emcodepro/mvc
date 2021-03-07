@@ -7,7 +7,6 @@
  */
 
 require_once __DIR__ . '/../vendor/autoload.php';
-//require_once __DIR__ . '/../config/main.php';
 
 use app\controllers\ProfileController;
 use app\controllers\SiteController;
